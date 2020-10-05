@@ -1,5 +1,8 @@
 # DeepLearning-keras
 
+- 교재: keras 창시자에게 배우는 딥러닝
+- with [SAI-I팀](https://github.com/sju-coml/SAI-2020-Team-I)
+
 | Week | Date | 교재 | 실습코드 | 추가적인 공부 | 
 |:---:|:---:|:---:|:---:|:---:|
 | 1주차 | 2020.09.28 |1장 딥러닝 기초 | | |
